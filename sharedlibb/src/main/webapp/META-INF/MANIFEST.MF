@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Extension-Name: shared-lib-b
+Specification-Version: 1.0
+Implementation-Version: 1.0.0

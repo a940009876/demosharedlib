@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Extension-List: shared-lib-a
+shared-lib-a-Extension-Name: shared-lib-a
+shared-lib-a-Specification-Version: 1.0
+shared-lib-a-Implementation-Version: 1.0.0
