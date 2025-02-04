@@ -39,3 +39,18 @@ mvn clean package
 cd demob
 mvn clean package
 ```
+
+## Deploy to weblogic
+
+1. Deploy saredliba/target/shared-lib-a.war as Library
+2. Deploy saredlibb/target/shared-lib-b.war as Library
+3. Deploy demoa/target/demoa.war as Web application
+4. Deploy demob/target/demob.war as Web application
+
+## Test applications on Web Browser
+
+Application Demo A: http://<ip>:7001/demoa/client-info
+
+Application Demo B: http://<ip>:7001/demob/client-info
+
+
