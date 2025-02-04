@@ -49,8 +49,8 @@ mvn clean package
 
 ## Test applications on Web Browser
 
-Application Demo A: http://<ip>:7001/demoa/client-info
+Application Demo A: http://&lt;ip&gt;:7001/demoa/client-info
 
-Application Demo B: http://<ip>:7001/demob/client-info
+Application Demo B: http://&lt;ip&gt;:7001/demob/client-info
 
 
